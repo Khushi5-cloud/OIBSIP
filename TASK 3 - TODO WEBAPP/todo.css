@@ -1,0 +1,82 @@
+
+body
+{
+    background-color: rgb(10, 3, 43);
+}
+h1
+{
+    color: rgb(36, 248, 64);
+    margin-top: 70px;
+    font-size: 70px;
+    margin-left: 630px;
+}
+.inputDiv
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.input
+{
+    margin-top: 1cm;
+    width: 8cm;
+    outline: 0cm;
+    height: 38px;
+    border-radius: 15px ;
+	padding-left: 0.3cm;
+}
+.add
+{
+	margin-top: 1cm;
+    background-color: rgb(36, 248, 64);
+    border-color: rgb(36, 248, 64);
+    height: 38px;
+    width: 40px;
+    border-radius: 15px ;
+}
+.add:hover
+{
+	opacity: 0.6;
+}
+.container
+{
+	
+	margin-left: 500px;
+	margin-top: 4rem;
+}
+.item_input
+{
+	width: 8cm;
+    outline: 0cm;
+    height: 38px;
+    border-radius: 15px ;
+	padding-left: 0.3cm;
+    background-color: aliceblue;  
+}
+.edit
+{
+	background-color: rgb(36, 199, 248);
+    border-color: rgb(36, 199, 248);
+    height: 38px;
+    width: 40px;
+    border-radius: 15px ;
+   
+}
+.edit:hover
+{
+	opacity: 0.6;
+}
+
+.remove
+{
+	background-color: red;
+    border-color: red;
+    height: 38px;
+    width: 40px;
+    border-radius: 15px ;
+   
+}
+.remove:hover
+{
+	opacity: 0.6;
+}
